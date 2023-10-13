@@ -4,6 +4,7 @@ CSCI-LING 5832 Project
 Team members:
 - Micah Zhang
 - Georgiana Weihe
+- Arjun Narasimhan
 
 Task:
 Task 9: BRAINTEASER: A Novel Task Defying Common Sense
