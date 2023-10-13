@@ -6,4 +6,4 @@ Team members:
 - Georgiana Weihe
 
 Task:
-TBD
+Task 9: BRAINTEASER: A Novel Task Defying Common Sense
